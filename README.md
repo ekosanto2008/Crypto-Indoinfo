@@ -18,6 +18,14 @@
 
 Whether you're tracking the price of Bitcoin, exploring Ethereum's market cap, or checking the latest trends for top altcoins, Crypto Indoinfo delivers accurate and up-to-date data right at your fingertips.
 
+## 📸 Screenshots
+
+<div align="center">
+  <img src="screenshots/CryptoIndoinfo-1.jpg" alt="Market Overview" width="250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="screenshots/CryptoIndoinfo-2.jpg" alt="Coin Detail" width="250"/>
+</div>
+
 ## ✨ Features
 
 - **Real-Time Market Data**: Stay updated with live cryptocurrency prices, market caps, and 24h changes.
